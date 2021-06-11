@@ -4,7 +4,7 @@
 ![Screenshot of the app](screenshot.png)
 
 ## [Download Object Capture UI](https://github.com/eospi/Object-Capture-UI/raw/main/Object%20Capture%20UI.zip)
-Alpha version 0.0.1
+Alpha version 0.0.1 – **Requires macOS 12 Monterey**
 
 ## Features
 - Select a folder of images 
